@@ -11,4 +11,5 @@ The World Happiness Report is a landmark survey of the state of global happiness
   <br/>
 · Built predictive models and evaluated them using 7 different ML classification and regression algorithms to predict the happiness score for year 2020.<br/>
 · Implemented Random Forest Regressor algorithm to improve the forecast accuracy to ~75%.
+
 ![Report](https://www.visualcapitalist.com/wp-content/uploads/2022/03/OC_GlobalHappiness_Share-1000x600.jpg)
